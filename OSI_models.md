@@ -1,6 +1,6 @@
 # Task2 _Lampstack
 
-## Task 2
+## OSI model layers
 
 The OSI model consists of seven layers, each of which is responsible for a specific aspect of network communication. These layers are:
 
